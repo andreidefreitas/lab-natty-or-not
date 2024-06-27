@@ -32,7 +32,9 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [Vídeo (Avatar Virtual)](/exemplos/lv_0_20240627203100.mp4)
+- [E-BOOK](/exemplos/E-BOOK.md)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
